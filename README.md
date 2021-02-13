@@ -3,16 +3,16 @@
 
 -Skills:
 
-Python
-Analytic tool: MS Excel, IBM SPSS 
-Microsoft PowerBI, Tableau
-MySQL, PosgreSQL, Sqlite, MongoDB, Apache Sparks
-Web Scraping (Beautiful Soup and Selenium)
-Comfortable with Flask, Heroku, GCP, AWS and MS Azure
+-Python
+-Analytic tool: MS Excel, IBM SPSS 
+-Microsoft PowerBI, Tableau
+-MySQL, PosgreSQL, Sqlite, MongoDB, Apache Sparks
+-Web Scraping (Beautiful Soup and Selenium)
+-Comfortable with Flask, Heroku, GCP, AWS and MS Azure
 
 Hobbies:
-Competitive Programming
-Surfing the internet, Listening to music
+-Competitive Programming
+-Surfing the internet, Listening to music
 
 - 🌱 I’m currently learning how the concept of big data (Hadoop) is used in proving solutions to diverse problems
 - 💞️ I’m looking to collaborate with experts across several domains in solving anything that can help humanity
