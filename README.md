@@ -14,7 +14,7 @@ Hobbies:
 -Competitive Programming
 -Surfing the internet, Listening to music
 
-- 🌱 I’m currently learning how the concept of big data (Hadoop) is used in proving solutions to diverse problems
+- 🌱 I’m currently learning how the concept of big data (Hadoop) is used in solving diverse problems
 - 💞️ I’m looking to collaborate with experts across several domains in solving anything that can help humanity
 
 - 📫 How to reach me
