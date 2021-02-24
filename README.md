@@ -1,5 +1,5 @@
 - 👋 Hi, this is Nurudeen!
-- 👀 I am a data scientist, business analyst that specialises in using the machine learning and deep learning in providing solutions across several domains
+- 👀 I am a data scientist, business analyst that specialises in using machine learning and deep learning in providing solutions across several domains
 
 -Skills:
 
